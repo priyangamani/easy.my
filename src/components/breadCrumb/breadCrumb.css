@@ -1,0 +1,14 @@
+
+.breadCrumb {
+    position: absolute;
+    width:614px;
+    height:15px;
+    margin-top:119px;
+    margin-left:166px;
+    font-family: Open Sans, Regular;
+}
+.breadcrumb-span {
+    color: #333333;
+    font-size: 10px;
+    margin-right: 5px;
+}

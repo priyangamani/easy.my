@@ -1,0 +1,42 @@
+.contact-email-big {
+    margin-top:5px;
+    margin-left:15.29px;
+    color:#E01A1A;
+}
+.contact-email-small {
+    margin-top:8px;
+    margin-left:9px;
+    color:#E01A1A;
+    width:20px;
+    height:19.16px;
+}
+
+.contact-chat-big {
+    margin-top: 5px;
+    margin-left:10.44px;
+    width:25.05px;
+    height: 24px;
+}
+.contact-chat-small {
+    margin-top: 10.45px;
+    margin-left:7.5px;
+    width:15px;
+    height:14.72px;
+}
+
+.contact-live-big {
+    margin-top: 5px;
+    margin-left:12.58px;
+    width:20.07px;
+    height: 20px;
+}
+.contact-live-small {
+    margin-top: 5px;
+    margin-left:12.58px;
+    width:20.07px;
+    height: 20px;
+}
+
+.contact-icon-common {
+    position: absolute;
+}

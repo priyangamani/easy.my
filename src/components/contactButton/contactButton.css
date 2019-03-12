@@ -1,0 +1,47 @@
+.contact-button-chat-big{
+    width:267px;
+    border: 1px solid #E01A1A;
+    margin-left: 33px;
+    margin-top:346px;
+}
+.contact-button-chat-small{
+    width:116px;
+    border: 1px solid #E01A1A;
+    margin-left: 5px;
+    margin-top:13px;
+}
+
+.contact-button-email-big{
+    width:267px;
+    border: 1px solid #E01A1A;
+    margin-left: 33px;
+    margin-top:392px;
+}
+
+.contact-button-email-small{
+    width:81px;
+    border: 1px solid #E01A1A;
+    margin-left: 125px;
+    margin-top:13px;
+}
+
+.contact-button-live-big{
+    width:267px;
+    background-color :  #E01A1A;
+    margin-left: 33px;
+    margin-top:438px;
+}
+
+.contact-button-live-small{
+    width:86px;
+    background-color :  #E01A1A;
+    margin-left: 210px;
+    margin-top:13px;
+}
+
+.contact-button-common {
+    cursor: pointer;
+    border-radius: 5px;
+    position: absolute;
+    height:36px;
+}

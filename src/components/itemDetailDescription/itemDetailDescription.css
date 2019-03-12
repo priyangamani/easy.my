@@ -1,0 +1,40 @@
+.item-con-desc-big {
+    margin-top: 128px;
+    margin-left: 33px;
+    width:140px;
+}
+.item-con-desc-small {
+    margin-top: 115px;
+    margin-left: 10px;
+    width:140px;
+}
+
+.item-loc-desc-big {
+    margin-top: 176px;
+    margin-left: 33px;
+    width:190px;
+}
+
+.item-loc-desc-small {
+    margin-top: 160px;
+    margin-left: 10px;
+    width:190px;
+}
+.seller-desc-big {
+    margin-top: 238px;
+    margin-left: 89px;
+    width:122px;
+}
+
+.seller-desc-small {
+    margin-top: 221px;
+    margin-left: 66px;
+    width:122px;
+}
+.item-desc-common {
+    color:#333333;
+    height: 19px;
+    font-size:14px;
+    position: absolute;
+    font-family: Open Sans, Regular;
+}

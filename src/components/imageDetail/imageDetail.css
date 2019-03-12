@@ -1,0 +1,25 @@
+.image-Detail-Big {
+    width:326px;
+    height:498.26px;
+    margin-left:852px;
+    margin-top:205px;
+}
+
+.image-Detail-medium {
+    width:320px;
+    height:494.26px;
+    margin-left:319px;
+    margin-top:165px;
+}
+
+.image-Detail-small {
+    width:305px;
+    height:338px;
+    margin-left:0px;
+    margin-top:404px;
+}
+
+.image-Detail-common {
+    border:1px solid #B9B9B9;
+    position: absolute;
+}

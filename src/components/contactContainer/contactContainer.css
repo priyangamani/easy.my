@@ -1,0 +1,15 @@
+.contact-cont-big {
+    position: absolute;
+}
+
+.contact-cont-small {
+    position: fixed;
+    bottom: 0;
+    left:0;
+    right:0;
+    background:#ffffff;
+    z-index:2;
+    width:320px;
+    height: 61px;
+    box-shadow: 0px -3px 6px #000000;
+}

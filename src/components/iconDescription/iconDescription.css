@@ -1,0 +1,30 @@
+.wish-text-big {
+    width:50px;
+    margin-left: 65px;
+    margin-top: 19px;
+}
+
+.wish-text-small {
+    width:50px;
+    margin-left: 40px;
+    margin-top: 8px;
+}
+
+.share-text-big {
+    width:37px;
+    margin-left: 212px;
+    margin-top: 19px;
+}
+.share-text-small {
+    width:37px;
+    margin-left: 192px;
+    margin-top: 10px;
+}
+
+.icon-image-common {
+    position: absolute;
+    color: #707070;
+    font-size: 14px;
+    font-family: Open Sans, Regular;
+    height: 19px;
+}

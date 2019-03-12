@@ -1,0 +1,64 @@
+.price-big{
+    margin-top: 55px;
+    margin-left: 33px;
+    width:28px;
+}
+
+.price-small{
+    margin-top: 42px;
+    margin-left: 10px;
+    width:28px;
+}
+.item-condition-big {
+    margin-top: 109px;
+    margin-left: 33px;
+    width:81px;
+}
+
+.item-condition-small {
+    margin-top: 96px;
+    margin-left: 10px;
+    width:81px;
+}
+
+.item-location-small{
+    margin-top: 142px;
+    margin-left: 10px;
+    width:73px;
+}
+.item-location-big{
+    margin-top: 154px;
+    margin-left: 33px;
+    width:73px;
+}
+
+.seller-big {
+    margin-top: 215px;
+    margin-left: 33px;
+    width:56px;
+}
+
+.seller-small {
+    margin-top: 192px;
+    margin-left: 10px;
+    width:56px;
+}
+
+.private-seller-big {
+    margin-top: 259px;
+    margin-left: 89px;
+    width:72px;
+}
+.private-seller-small {
+    margin-top: 242px;
+    margin-left: 66px;
+    width:72px;
+}
+
+.item-heading-common {
+    position: absolute;
+    color:#707070;
+    font-family: Open Sans, Regular;
+    height: 17px;
+    font-size:11px;
+}

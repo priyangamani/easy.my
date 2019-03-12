@@ -1,0 +1,18 @@
+.price-desc-big {
+    margin-top:72px;
+    margin-left:33px;
+}
+
+.price-desc-small {
+    margin-top:59px;
+    margin-left:10px; 
+}
+
+.price-desc-common {
+    position: absolute;
+    color:#E01A1A;
+    width:82px;
+    height:27px;
+    font-size: 20px;
+    font-family: Open Sans, Semibold;
+}

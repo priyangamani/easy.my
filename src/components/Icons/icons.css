@@ -1,0 +1,29 @@
+.favorite-big {
+    width:20px;
+    height:18.35px;
+    margin-left: 35px;
+    margin-top: 19px;
+}
+.favorite-small {
+    width:20px;
+    height:18.35px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.share-big {
+    width:17.98px;
+    height:19.77px;
+    margin-left: 184px;
+    margin-top: 18px;
+}
+.share-small {
+    width:17.98px;
+    height:19.77px;
+    margin-left: 160px;
+    margin-top: 10px;
+}
+.icons-common-click {
+    position: absolute;
+    color:#707070;
+}

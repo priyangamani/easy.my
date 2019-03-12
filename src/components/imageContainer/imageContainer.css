@@ -1,0 +1,25 @@
+.image-Container-Big {
+    width:664px;
+    height:498.26px;
+    margin-top:205px;
+    margin-left:166px;
+}
+.image-container-medium {
+    width:320px;
+    height:240px;
+    margin-top:165.12px;
+    margin-left:0px;
+}
+
+.image-container-small {
+    width:305px;
+    height:240px;
+    margin-top:165.12px;
+    margin-left:0px; 
+}
+
+.image-container-common {
+    position: absolute;
+    border:1px solid #B9B9B9;
+    color:#ffffff;
+}
